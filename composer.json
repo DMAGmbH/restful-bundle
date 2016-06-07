@@ -1,0 +1,31 @@
+{
+    "name": "DMAGmbH/restful-bundle",
+    "description": "Restful",
+    "type": "contao-bundle",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Thomas Lonnemann",
+            "email": "lonnemann@dma.do"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DMA\\RestfulBundle\\": "src/"
+        },
+        "classmap": [
+            "src/Resources/contao/classes",
+            "src/Resources/contao/controllers",
+            "src/Resources/contao/drivers",
+            "src/Resources/contao/elements",
+            "src/Resources/contao/forms",
+            "src/Resources/contao/library",
+            "src/Resources/contao/models",
+            "src/Resources/contao/modules",
+            "src/Resources/contao/pages",
+            "src/Resources/contao/widgets"
+        ]
+    },
+}
