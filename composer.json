@@ -1,5 +1,5 @@
 {
-    "name": "DMAGmbH/restful-bundle",
+    "name": "dma/restful-bundle",
     "description": "Restful",
     "type": "contao-bundle",
     "license": "LGPL-3.0+",
