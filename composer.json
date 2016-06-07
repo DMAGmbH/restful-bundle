@@ -27,5 +27,5 @@
             "src/Resources/contao/pages",
             "src/Resources/contao/widgets"
         ]
-    },
+    }
 }
